@@ -6,7 +6,7 @@ Simple racing game based on Unity 3D.
 ## Supported platforms (DOWNLOAD)
 | name  | download |
 | ------------- | ------------- |
-| Android  | [Download ~33.3 MB](http://demo.web-panda.ru/car.apk)  |
+| Android  | [Download ~32.5 MB](http://demo.web-panda.ru/car.apk)  |
 | IOS  | Need a license key. You can compile manually |
 | WindowsPhone  | You can compile manually|
 | Windows  | You can compile manually |
