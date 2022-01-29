@@ -1,12 +1,13 @@
 # Simple Racing
 Simple racing game based on Unity 3D.
 
-![Sceenshot 1](https://demo.web-panda.ru/screenshots/car.png)
+![car](https://user-images.githubusercontent.com/13501355/151675039-b1969d76-0141-4bed-8b87-19a51bd134df.png)
+
 
 ## Supported platforms (DOWNLOAD)
 | name  | download |
 | ------------- | ------------- |
-| Android  | [Download ~32.5 MB](http://demo.web-panda.ru/car.apk)  |
+| Android  | You can compile manually |
 | IOS  | Need a license key. You can compile manually |
 | WindowsPhone  | You can compile manually|
 | Windows  | You can compile manually |
